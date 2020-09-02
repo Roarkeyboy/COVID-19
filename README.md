@@ -8,7 +8,9 @@
 ## The notebook displays through graphs, the infections per city, per gender and deaths.
 ## It also displays statistical measures such as daily growth and cases growth over time per city
 ## Some results are shown below
-### A gif of increases in cases 
-![](covid.gif)
-###
-
+### A gif displaying the increase of cases 
+### ![](covid.gif)
+### Display of males/females by colour and cases
+### ![](males_and_females_cases.png)
+### Graph of cases by date in a given city
+### ![](cases_by_date.png)
